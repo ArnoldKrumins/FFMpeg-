@@ -1,0 +1,11 @@
+c:\users\akrumins\documents\visual studio 2015\Projects\ffmpegEncoding\ffmpegEncoding\bin\Debug\ffmpegEncoding.exe.config
+c:\users\akrumins\documents\visual studio 2015\Projects\ffmpegEncoding\ffmpegEncoding\bin\Debug\ffmpegEncoding.exe
+c:\users\akrumins\documents\visual studio 2015\Projects\ffmpegEncoding\ffmpegEncoding\bin\Debug\ffmpegEncoding.pdb
+c:\users\akrumins\documents\visual studio 2015\Projects\ffmpegEncoding\ffmpegEncoding\obj\Debug\ffmpegEncoding.csprojResolveAssemblyReference.cache
+c:\users\akrumins\documents\visual studio 2015\Projects\ffmpegEncoding\ffmpegEncoding\obj\Debug\ffmpegEncoding.frmMain.resources
+c:\users\akrumins\documents\visual studio 2015\Projects\ffmpegEncoding\ffmpegEncoding\obj\Debug\ffmpegEncoding.Properties.Resources.resources
+c:\users\akrumins\documents\visual studio 2015\Projects\ffmpegEncoding\ffmpegEncoding\obj\Debug\ffmpegEncoding.csproj.GenerateResource.Cache
+c:\users\akrumins\documents\visual studio 2015\Projects\ffmpegEncoding\ffmpegEncoding\obj\Debug\ffmpegEncoding.exe
+c:\users\akrumins\documents\visual studio 2015\Projects\ffmpegEncoding\ffmpegEncoding\obj\Debug\ffmpegEncoding.pdb
+c:\users\akrumins\documents\visual studio 2015\Projects\ffmpegEncoding\ffmpegEncoding\bin\Debug\Transcoder.dll
+c:\users\akrumins\documents\visual studio 2015\Projects\ffmpegEncoding\ffmpegEncoding\bin\Debug\Transcoder.pdb

@@ -1,0 +1,5 @@
+c:\users\akrumins\documents\visual studio 2015\Projects\ffmpegEncoding\Transcoder\bin\Debug\Transcoder.dll
+c:\users\akrumins\documents\visual studio 2015\Projects\ffmpegEncoding\Transcoder\bin\Debug\Transcoder.pdb
+c:\users\akrumins\documents\visual studio 2015\Projects\ffmpegEncoding\Transcoder\obj\Debug\Transcoder.csprojResolveAssemblyReference.cache
+c:\users\akrumins\documents\visual studio 2015\Projects\ffmpegEncoding\Transcoder\obj\Debug\Transcoder.dll
+c:\users\akrumins\documents\visual studio 2015\Projects\ffmpegEncoding\Transcoder\obj\Debug\Transcoder.pdb
